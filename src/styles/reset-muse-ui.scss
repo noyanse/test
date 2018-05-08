@@ -1,0 +1,15 @@
+/*
+describe 重新编写样式覆盖已有的muse-ui样式
+*/
+.mu-tabs{
+  background: #1D212A;
+}
+.mu-tab-link{
+  font-size: 28px;
+  min-height: 70px;
+  padding: 20px 0;
+}
+
+.mu-tab-link-highlight{
+  background: #059DE9;
+}

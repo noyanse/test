@@ -1,0 +1,19 @@
+.strength {
+  width: 50%;
+  float: left;
+  padding: 30px 0;
+  .title {
+    color: #fff;
+    padding-left: 60px;
+  }
+  .icon-signal {
+    color: #05E7BB;
+    font-size: 28px;
+  }
+  #signalStrength, #radioStrength {
+    width: 60%;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+}
